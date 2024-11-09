@@ -3,6 +3,8 @@ html, .container {
     font-family: "Playwrite GB S", cursive;
 }
 
+.bg-dark {
+    background-color: aliceblue !important;
 
 h1.heading {
     color: #4a64aa; 
